@@ -1,0 +1,13 @@
+/// Entry 1 - 2-11-2026
+
+This is my first project. Credit goes to marc-edgeimpulse on the Arduino project hub for providing the instructions 
+(Socks Classification with Arduino UNO Q and Edge Impulse)
+
+
+# Important Notes
+General updates, progress.
+-- Progress Image (Relative Path Here)
+
+/// Entry # - Month-Day-Year
+
+# Important Notes...

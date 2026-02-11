@@ -1,0 +1,14 @@
+
+
+/// Entry 1 - Feb-11-2026
+
+Credit goes to joshtello on the Arduino project hub for providing the instructions 
+(Robot Desk Buddy)
+
+# Important Notes
+General updates, progress.
+-- Progress Image (Relative Path Here)
+
+/// Entry # - Month-Day-Year
+
+# Important Notes...

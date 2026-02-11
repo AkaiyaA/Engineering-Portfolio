@@ -1,0 +1,12 @@
+This is where the documentation for each project will go.
+Each entry should be formatted like:
+
+/// Entry # - Month-Day-Year
+
+# Important Notes
+General updates, progress.
+-- Progress Image (Relative Path Here)
+
+/// Entry # - Month-Day-Year
+
+# Important Notes...
