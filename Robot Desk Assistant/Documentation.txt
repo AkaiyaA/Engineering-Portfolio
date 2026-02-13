@@ -5,10 +5,40 @@
 Credit goes to joshtello on the Arduino project hub for providing the instructions 
 (Robot Desk Buddy)
 
-# Important Notes
-General updates, progress.
--- Progress Image (Relative Path Here)
+/// Entry 2 - Feb-13-2026
 
-/// Entry # - Month-Day-Year
+# BEGAN WIRING
 
-# Important Notes...
+I laid out all of the parts I had, and spent today wiring the components together, 
+with the relevant image given:
+
+-- Robot Desk Assistant/Photos/Project Photos/Photo1_ProjectParts.JPG (Project parts laid out)
+
+So far, I've wired the breadboard and the Arduino board together. As I'm assembling the LCD to wire it,
+I've come across a problem with my breadboard. It is my first time working with an LCD and header pins,
+so I've learned that I needed to attach them both. For this project, unless it's later required for
+funcitonality, I've opted to not solder the header pins to the LCD, only because I currently don't have
+the tools to do so.
+
+When trying to attach the header pins to the breadboard, I've encountered an issue where the pins would
+not properly insert even with heavy force. It could be a problem with either the size of the pins or the 
+design of the breadboard. Either way, I'm not too surprised that I've come across issues, since I got this
+kit for cheap (Items in said kit that I'm using in this project include the breadboard, header pins, 
+and most M-M wires). To mitigate this issue, I've split the sixteen header pin row that is required for the 
+LCD into four smaller sections (each with four pins). This has made insertion into the breadboard significantly
+easier.   
+
+# LCD ASSEMBLED ONTO BREADBOARD WITHOUT SOLDERING
+
+I ended up having to split the third section of header pins (pins E42-E45) into two smaller sections (two
+header pin groupings, one between E42-E43 and the other between E44-E45) because one of the holes in that
+area was being particularly difficult. I eventually managed to get all pins in and the LCD fixed onto it.
+
+-- Robot Desk Assistant/Photos/Project Photos/Photo2.jpg (Arduino wiring and assembled LCD screen)
+
+I've finished initial wiring of the project, and the paths to reference images are given:
+
+-- Robot Desk Assistant/Photos/Project Photos/Photo3.JPG (Finished initial wiring to align with digital model)
+-- Robot Desk Assistant/Photos/Digital Photos/TinkercadModel1.png (Digital model of stage-one wiring)
+
+/// Entry 3 - #-#-#
