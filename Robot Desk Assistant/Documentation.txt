@@ -1,18 +1,17 @@
 
-
-/// Entry 1 - Feb-11-2026
+/// ---------- Entry 1 -- Feb-11-2026 ----------
 
 Credit goes to joshtello on the Arduino project hub for providing the instructions 
 (Robot Desk Buddy)
 
-/// Entry 2 - Feb-13-2026
+/// ---------- Entry 2 -- Feb-13-2026 ----------
 
 # BEGAN WIRING
 
 I laid out all of the parts I had, and spent today wiring the components together, 
 with the relevant image given:
 
--- Robot Desk Assistant/Photos/Project Photos/Photo1_ProjectParts.JPG (Project parts laid out)
+-- Robot Desk Assistant/Photos/Project Photos/1.JPG (Project parts laid out)
 
 So far, I've wired the breadboard and the Arduino board together. As I'm assembling the LCD to wire it,
 I've come across a problem with my breadboard. It is my first time working with an LCD and header pins,
@@ -34,11 +33,40 @@ I ended up having to split the third section of header pins (pins E42-E45) into 
 header pin groupings, one between E42-E43 and the other between E44-E45) because one of the holes in that
 area was being particularly difficult. I eventually managed to get all pins in and the LCD fixed onto it.
 
--- Robot Desk Assistant/Photos/Project Photos/Photo2.jpg (Arduino wiring and assembled LCD screen)
+-- Robot Desk Assistant/Photos/Project Photos/2.jpeg (Arduino wiring and assembled LCD screen)
 
 I've finished initial wiring of the project, and the paths to reference images are given:
 
--- Robot Desk Assistant/Photos/Project Photos/Photo3.JPG (Finished initial wiring to align with digital model)
+-- Robot Desk Assistant/Photos/Project Photos/3.JPG (Finished initial wiring to align with digital model)
 -- Robot Desk Assistant/Photos/Digital Photos/TinkercadModel1.png (Digital model of stage-one wiring)
 
-/// Entry 3 - #-#-#
+/// ---------- Entry 3 -- Feb-14-2026 ----------
+
+# CONTINUED WIRING
+
+I continued wiring the LCD and chip as according to the guide, with a few minor tweaks.
+
+-- Robot Desk Assistant/Photos/Project Photos/4.JPG (Wiring of the LCD) 
+-- Robot Desk Assistant/Photos/Digital Photos/TinkercadModel2.png (Digital model accompanying current wiring)
+
+I've encountered a potential setback where I realized I don't have the proper 160 ohm resistor that the guide
+suggested. In light of this, I opted to use the next closest resister I had without going below 160, which 
+was a 220 ohm resistor. I'm hoping it won't reduce the current too much to the point of the system not working
+as intended. I plan on replacing the part later anyways.
+
+-- Robot Desk Assistant/Photos/Project Photos/5.JPG (Exploded picture of the resistor)
+
+I also wanted to mention that I've noticed the cluttering of the wires become a bit overwhelming. My goal at
+this moment is to finish the project and ensure it's operating as intended, and afterwards strip and trim
+the wires to appropriate lengths.
+
+# I also need to take a note of supplies I'm currently missing: Power cable, piezo speaker, wire cutters, 
+and potential soldering equipment for the LCD. I will continue to update on new equipment and implementations
+as the project goes on.
+
+I continued to add the two pushbuttons and the photoresistors to the board, with supporting images attached:
+
+-- Robot Desk Assistant/Photos/Project Photos/6.JPG (Updated breadboard)
+-- Robot Desk Assistant/Photos/Digital Photos/TinkercadModel3.png (Updated digital model)
+
+/// ---------- Entry 3 -- #-#-# ----------
