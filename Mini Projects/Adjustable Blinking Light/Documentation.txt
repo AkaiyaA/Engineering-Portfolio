@@ -1,0 +1,58 @@
+
+                =========================
+                Adjustable Blinking Light
+                =========================
+
+
+/// ---------- Entry 1 -- February-27-2026 ----------
+
+# TOOLS USED:
+# 5x MtM cables (2 large - green, 3 small - brown)
+# 1x LED light (I used green)
+# 1x Potentiometer
+# 1x Arduino Uno
+
+After completing the blinking light project, I wanted to challenge myself by modifying
+the circuit. I decided to create a light that would adjust the resistance in the circuit
+using a potentiometer. I considered it a fun challenge, and would actually teach me how
+to properly implement potentiometers in my projects.
+
+In this project, I had also used the provided development/breakout board that came with
+the arduino in the kit. It helped me to understand how development boards are used (like 
+indirectly testing a circuit on the board), and how they can be used in the future (to
+create new boards with soldering tools). This was a tool I hadn't used in the original
+blinking light project.
+
+-- Mini Projects/Adjustable Blinking Light/Photos/1.JPG
+        (The circuit in the front-facing position in the 'off' state)
+
+-- Mini Projects/Adjustable Blinking Light/Photos/2.JPG
+        (The circuit in the side-facing position in the 'off' state)
+
+After some initial wiring, where I wired the different prongs of the potentiometer 
+incorrectly in the circuit, I eventually figured out the proper configuration through
+troubleshooting.
+
+-- Mini Projects/Adjustable Blinking Light/Photos/3.JPG
+        (The circuit in the side-facing position in the 'on' state)
+
+-- Mini Projects/Adjustable Blinking Light/Photos/4.JPG
+        (The circuit in the side-facing position in the 'on' state with increased 
+        resistance from the potentiometer)
+
+Here's a provided video (if it even works) that also shows the function of the circuit
+in action:
+
+-- Mini Projects/Adjustable Blinking Light/Photos/5.mov
+        (A video of the circuit in the 'on' state as I maniuplate the resistance of the 
+        current to the LED by turning the potentiometer)
+
+Here are the relative paths to the digital models:
+
+-- Mini Projects/Adjustable Blinking Light/Photos/6.png
+        (The digital model of the circuit with Tinkercad)
+
+-- Mini Projects/Adjustable Blinking Light/Photos/7.png
+        (The schematics for the circuit, also provided with Tinkercad)
+
+/// ---------- --------------------------- ----------

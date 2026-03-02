@@ -1,0 +1,58 @@
+
+                ================
+                Resistor Circuit
+                ================
+
+
+/// ---------- Entry 1 -- February-28-2026 ----------
+
+# TOOLS USED:
+# 7x MtM cables (2 large - green, 5 small - brown)
+# 1 LED light (I used green)
+# 1x 1M Ohm Resistor 
+# 5x 220 Ohm Resistor
+# 1x Arduino Uno
+
+Doing the Adjustable Blinking Light project made me more curious about resistors and how
+noticable the change in resistance would be in a basic circuit. I noticed when doing the 
+standard Blinking Light project that the light (when in the 'on' state) was rather bright.
+So I proposed to myself, 'how many resistors / what resistance is needed to noticable dim
+the LED?'
+
+In this project, I did nothing much but practice connecting a circuit over the ravine. I 
+wanted to experiment with how current flows and how resistors can be used to close a 
+circuit.
+
+The first iteration of this project was primarily just experimenting with unconventional
+wiring, and learning how the breadboard works / how to close a circuit.
+
+-- Mini Projects/Resistor Circuit/Photos/1.jpeg
+        (The circuit in the 'off' state)
+
+-- Mini Projects/Resistor Circuit/Photos/2.jpeg
+        (The circuit in the 'on' state)
+
+-- Mini Projects/Resistor Circuit/Photos/5.png
+        (The digital model of the circuit with Tinkercad)
+
+The second portion of this project is when I began to focus on the resistors. In this
+iteration, I really just put resisters along the circuit, adding until I noticed the
+luminosity of the LED was very dim. This wasn't achieved until I used a (100k or 1M??)
+ohm resistor.
+
+-- Mini Projects/Resistor Circuit/Photos/3.JPG
+        (The updated circuit in the 'off' state)
+
+-- Mini Projects/Resistor Circuit/Photos/4.JPG
+        (The updated circuit in the 'on' state, compared to photo 2 in this project)
+
+-- Mini Projects/Resistor Circuit/Photos/6.png
+        (The digital model of the circuit with Tinkercad)
+
+-- Mini Projects/Resistor Circuit/Photos/7.png
+        (The schematics for the circuit, also provided with Tinkercad)
+
+Otherwise, this was a fun project to practice how electricity is conducted across a
+breadboard, along with the effects of resistance. 
+
+/// ---------- --------------------------- ----------

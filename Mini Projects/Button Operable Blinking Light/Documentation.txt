@@ -1,0 +1,52 @@
+        
+            ==============================
+            Button Operable Blinking Light
+            ==============================
+            
+
+/// ---------- Entry 1 -- February-28-2026 ----------
+
+# TOOLS USED:
+# 3x MtM cables (2 large - green, 1 small - brown)
+# 1x pushbutton
+# 1x LED light (green)
+# Arduino Uno
+
+I had taken inspiration from the potentiometer Adjustable Blinking Light project, and
+wondered what it would be like to create a light circuit with a push button input. My aim
+was to test how the pushbutton effects the current; whether or not it stops the flow of
+current, or allows it.
+
+I assembled a basic blinking light circuit, but adjusted it for the pushbutton. For this
+project, I placed the pushbutton over the ravine of the breadboard. But I would like to
+try and see if it would work even if the button weren't crossing the ravine (i.e., the
+pushbutton is entirely on one side of the breadboard).
+
+-- Mini Projects/Button Operable Blinking Light/Photos/1.JPG
+        (The working circuit with the light in the 'off' state)
+
+-- Mini Projects/Button Operable Blinking Light/Photos/2.JPG
+        (The working circuit with the light in the 'on' state)
+
+!!!(Include video here)!!!
+
+-- Mini Projects/Button Operable Blinking Light/Photos/3.png
+        (The digital model of the circuit with Tinkercad)
+
+Seeing that a resistor is needed in this circuit, as indicated by the Tinkercad model, 
+I added a 220 ohm resistor:
+
+-- Mini Projects/Button Operable Blinking Light/Photos/1.JPG
+        (The working circuit with the light in the 'off' state)
+
+The circuit is complete and safe.
+
+Digital supporting files:
+
+-- Mini Projects/Button Operable Blinking Light/Photos/4.png
+        (The UPDATED digital model of the circuit with Tinkercad)
+
+
+
+/// ---------- --------------------------- ----------
+

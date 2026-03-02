@@ -1,0 +1,37 @@
+
+                ==============
+                Blinking Light
+                ==============
+
+
+/// ---------- Entry 1 -- February-26-2026 ----------
+
+# TOOLS USED:
+# 2x MtM cables
+# 1x 220 ohm resistor
+# 1x LED light (I used red)
+# 1x Arduino Uno
+
+For this project, I used DFRobots arduino uno robotics kit. The goal was to take time to 
+practice basic circuitry to better understand the different parts and components.
+
+I started with a blinking light, which was the first project that the handbook provided.
+
+Following the project and connecting it to power yielded a working blinking light.
+
+-- Mini Projects/Blinking Light/Photos/1.jpeg
+        (The working circuit with the light in the 'on' state)
+
+-- Mini Projects/Blinking Light/Photos/2.jpeg
+        (The working circuit next to the provided guide in the handbook)
+
+It was an extremely easy process and took only a few minutes to correctly wire and
+troubleshoot.
+
+-- Mini Projects/Blinking Light/Photos/3.png
+        (The digital model of the circuit with Tinkercad)
+
+-- Mini Projects/Blinking Light/Photos/4.jpeg
+        (The schematics for the circuit, also provided with Tinkercad)
+
+/// ---------- --------------------------- ----------
