@@ -1,1 +1,3 @@
-/hello.txt
+# ignore all private directories
+
+private/ 
