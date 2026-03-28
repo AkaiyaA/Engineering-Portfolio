@@ -1,7 +1,38 @@
-/// Entry 1 - 2-11-2026
+            ==============================
+            Clothes Classification Project
+            ==============================
+
+# TOOLS USED:
+# 3x MtM cables (2 large - green, 1 small - brown)
+# 1x pushbutton
+# 1x LED light (green)
+# Arduino Uno
+
+/// ---------- Entry 1 -- February-11-2026 ----------
 
 This is my first project. Credit goes to marc-edgeimpulse on the Arduino project hub for providing the instructions 
 (Socks Classification with Arduino UNO Q and Edge Impulse)
+
+/// ---------- Entry 2 -- March-28-2026 ----------
+
+I've decided to complete this project during the 2026 Kent Hack Enough (KSU Hackathon) as my project of choice. 
+I'd like to not only finish it during this programming/engineering marathon event, but my goal is to also add more to the system. I want to make the classifier able to distinguish between several articles of clothing, and even suggest outfit pairs.
+
+Right now, it's 11:21 AM, and my primary setback is the fact that I realized I didn't bring clothes to the event to use as sampling in order to train the algorithm. To remedy this, I've used some simple, sample images pulled from Google. 
+
+12:34 PM - I'm installing packages for the Arduino UNO Q board. I realized that this system primarily relies on just the chip and the edgeimpulse model to complete its job, and not a whole lot with wiring or the breadboard. I might not stick with the edgeimpulse implementation anyways, as it is only limiting me to two classes of objects (which I defined both as "socks" and "shirts").
+
+At the end of the project, the goal is to have the system be able to recognize several different types and styles of clothing, as it's meant to work in a closet/wardrobe. I might have to implement another classification model if I want to get this to work as intended, and a communication model to potentially request outfits.
+
+1:49PM - I've opted to use Roboflow Rapid to help create and deploy a ML model for this project, instead of edgeimpulse. 
+
+
+
+        
+
+            
+
+
 
 
 # Important Notes

@@ -40,12 +40,15 @@ troubleshooting.
         (The circuit in the side-facing position in the 'on' state with increased 
         resistance from the potentiometer)
 
-Here's a provided video (if it even works) that also shows the function of the circuit
+Here's a provided video that also shows the function of the circuit
 in action:
 
 -- Mini Projects/Adjustable Blinking Light/Photos/5.mov
         (A video of the circuit in the 'on' state as I maniuplate the resistance of the 
         current to the LED by turning the potentiometer)
+
+# NOTE: The raw video must be downloaded in order to view (go to the file in the repository,
+and click 'view raw,' 'download raw,' etc.)
 
 Here are the relative paths to the digital models:
 

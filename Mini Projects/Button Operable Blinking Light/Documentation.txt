@@ -30,6 +30,9 @@ pushbutton is entirely on one side of the breadboard).
 
 !!!(Include video here)!!!
 
+# NOTE: The raw video must be downloaded in order to view (go to the file in the repository,
+and click 'view raw,' 'download raw,' etc.)
+
 -- Mini Projects/Button Operable Blinking Light/Photos/3.png
         (The digital model of the circuit with Tinkercad)
 
@@ -46,7 +49,8 @@ Digital supporting files:
 -- Mini Projects/Button Operable Blinking Light/Photos/4.png
         (The UPDATED digital model of the circuit with Tinkercad)
 
-
+-- Mini Projects/Button Operable Blinking Light/Photos/5.png
+        (The schematics for the circuit, also provided with Tinkercad)
 
 /// ---------- --------------------------- ----------
 
