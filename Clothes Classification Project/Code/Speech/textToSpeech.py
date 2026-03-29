@@ -153,9 +153,11 @@ def main_loop():
             speak("Sure thing. Give me a second.")
 
             outfit = generate_outfit(wardrobe)
-            safe_show_outfit_fullscreen(outfit)
 
             speak("Here’s what I picked for you.")
+
+            safe_show_outfit_fullscreen(outfit)
+
         else:
             speak(reply)
 

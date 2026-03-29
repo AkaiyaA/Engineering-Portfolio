@@ -42,7 +42,7 @@ def show_outfit_fullscreen(outfit):
     # 1. CREATE ROOT FIRST (this is the key fix)
     root = tk.Tk()
     root.attributes("-fullscreen", True)
-    root.configure(bg="black")
+    root.configure(bg="white")
 
     images = []
 
