@@ -1,0 +1,15 @@
+This is how the text to speech model is going to work:
+
+User speaks
+   ↓
+Microphone input
+   ↓
+Speech-to-text (Python)
+   ↓
+Intent detection ("another outfit", "stop", etc.)
+   ↓
+generate_outfit()
+   ↓
+display outfit image
+   ↓
+Text-to-speech response

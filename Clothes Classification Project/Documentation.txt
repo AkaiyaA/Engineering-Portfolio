@@ -26,6 +26,9 @@ At the end of the project, the goal is to have the system be able to recognize s
 
 1:49PM - I've opted to use Roboflow Rapid to help create and deploy a ML model for this project, instead of edgeimpulse. 
 
+6:41 PM - So far, I've built this system using Roboflow ML and a bit of SQLite for database integration. After several hours of trial an error, I finally got the system running and working at least somewhat well. The model in Roboflow is still small, so all of the predictions are pretty lackluster. But everything is integrated pretty effectively. 
+
+Right now, I'm debating on how I want to ingetrate the Arduino into this, because as of now, the entire system can run on my laptop without the need for external components. I'm going to take a few minutes to decide the best course of action, now that the "big" part of the brains is completed.
 
 
         
